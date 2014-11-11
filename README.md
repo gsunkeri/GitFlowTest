@@ -1,4 +1,4 @@
 GitFlowTest
 ===========
 
-to
+to test various features of source tree
